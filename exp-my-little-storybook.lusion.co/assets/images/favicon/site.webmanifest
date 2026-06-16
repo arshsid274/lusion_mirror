@@ -1,0 +1,20 @@
+{
+	"name": "My Little Storybook",
+	"short_name": "My Little Storybook",
+	"icons": [
+		{
+			"src": "/assets/images/favicon/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/images/favicon/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#efefef",
+	"background_color": "#efefef",
+	"start_url": "https://exp-my-little-storybook.lusion.co/",
+	"display": "standalone"
+}
